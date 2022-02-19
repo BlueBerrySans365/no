@@ -6,6 +6,6 @@ Example face, sweater, hair by me (yeah, this cringe)
 ⚠️ **If u want to do nft's with this tool - redraw all assets please.**
 
 To-do list:
-- [ ] Add BG support (that's easy... but i lazy xDD)
+- [ ] Add BG support (that's easy... but i am lazy xDD)
 - [ ] Make customizable config with custom limit for random
 - [ ] Make test 150+ NFT's (fuck)
